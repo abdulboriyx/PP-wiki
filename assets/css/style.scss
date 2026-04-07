@@ -1,0 +1,129 @@
+---
+---
+@import "minima";
+
+/**
+ * Mobile-First Responsive Design & Typography
+ */
+body {
+  font-size: 18px; /* Slightly larger for better readability */
+  line-height: 1.6;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  max-width: 800px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+/**
+ * Navigation & Touch Targets
+ */
+.site-header {
+  border-top: 5px solid #2a7ae2;
+  min-height: 56px;
+}
+
+.site-title {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-nav .page-link {
+  min-height: 44px;
+  padding: 10px 15px;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    border: none;
+    background-color: transparent;
+  }
+  
+  .site-nav .menu-icon {
+    display: none; /* Keep nav simple and visible on mobile */
+  }
+  
+  .site-nav .trigger {
+    display: block;
+    clear: both;
+    float: none;
+  }
+}
+
+/**
+ * Overflow Handling (Tables & Code)
+ */
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+pre, code, .highlighter-rouge {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/**
+ * Dark Mode Support (Respect System Preference)
+ */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #121212;
+    color: #e0e0e0;
+  }
+
+  .site-header {
+    background-color: #1e1e1e;
+    border-top-color: #333;
+    border-bottom: 1px solid #333;
+  }
+
+  .site-title, .site-title:visited, .site-nav .page-link {
+    color: #e0e0e0;
+  }
+
+  .site-footer {
+    border-top: 1px solid #333;
+    background-color: #121212;
+    color: #888;
+  }
+
+  a {
+    color: #8ab4f8;
+  }
+
+  a:visited {
+    color: #c58af9;
+  }
+
+  code {
+    background-color: #2d2d2d;
+    color: #ff9e64;
+  }
+
+  .highlighter-rouge pre {
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+  }
+
+  table th, table td {
+    border: 1px solid #444;
+  }
+
+  blockquote {
+    color: #aaa;
+    border-left: 4px solid #444;
+  }
+}

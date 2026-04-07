@@ -1,0 +1,12 @@
+title: PP Wiki
+description: A wiki for Political Philosophy concepts, thinkers, and debates.
+theme: minima
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom settings
+header_pages:
+  - index.md
