@@ -6,15 +6,19 @@
 
 ## Core Ideas
 
-Hobbes is the founding figure of the contractarian (Hobbesian) strain of social contract theory. His central contributions:
+Hobbes is the founding figure of the contractarian (Hobbesian) strain of social contract theory. His central contributions, primarily developed in *[Leviathan](../sources/hobbes-leviathan.md)*:
 
-1. **State of nature as war**: In the absence of political authority, human life is a war of all against all, driven by competition, diffidence, and the desire for glory. Life is "solitary, poore, nasty, brutish, and short." This severe baseline establishes a powerful motive to contract.
+1. **Materialist Psychology**: Hobbes views human beings as complex systems of matter in motion. Actions are driven by "endeavors"—desire (appetite) and aversion. "Good" and "evil" are relative to these individual desires and aversions.
 
-2. **Alienation contract**: The rational response to the state of nature is to alienate one's rights — including the right to self-defense and private adjudication of disputes — to a sovereign authority. This is an *alienation*, not merely a delegation: subjects transfer, not merely lend, their authority.
+2. **State of nature as war**: In the absence of political authority, human life is a war of all against all (*bellum omnium contra omnes*), driven by competition, diffidence (fear), and the desire for glory. Life is "solitary, poore, nasty, brutish, and short." This severe baseline establishes a powerful motive to contract for peace.
 
-3. **Sovereignty and stability**: The sovereign's power is near-absolute, because any weakening of sovereign authority risks return to the state of nature. Hobbes's contractarianism licenses strong, even authoritarian, government. Hampton (1986) calls this the "alienation contract."
+3. **Laws of Nature**: These are "theorems" of reason discovered by human beings to ensure their preservation. The first and fundamental law is to seek peace.
 
-4. **Self-interest as the basis of obligation**: Political obligation does not derive from natural law, divine command, or intrinsic moral facts, but from the rational self-interest of those who would otherwise suffer the state of nature.
+4. **Alienation contract**: The rational response to the state of nature is to alienate one's rights — including the right to all things — to a sovereign authority. This is an *alienation*, not merely a delegation: subjects transfer their authority to the [Sovereignty](../concepts/sovereignty.md).
+
+5. **Absolute Sovereignty**: The sovereign's power must be absolute, indivisible, and inalienable to prevent the return to civil war (the state of nature). The sovereign is the "Leviathan," an artificial person who represents the collective power of the commonwealth.
+
+6. **The Right of Nature**: Despite the absolute transfer of rights, Hobbes maintains that individuals retain the inalienable right to self-preservation. A subject can never be forced to kill themselves or submit to execution without resistance, as the purpose of the contract was the preservation of life.
 
 ---
 
@@ -24,13 +28,13 @@ Jean Hampton (*Hobbes and the Social Contract Tradition*, 1986) argues that Hobb
 - If failure to cooperate stems from *passion* (greed, fear), those passions persist after the contract — compliance is not secured.
 - If failure to cooperate stems from *rationality* (prisoner's dilemma reasoning), then the same reasoning that prevents pre-contract cooperation applies after the contract — defection remains rational.
 
-Either way, Hobbes has not shown that rational self-interested agents will comply with the social contract.
+Either way, Hobbes has not shown that rational self-interested agents will comply with the social contract without a "punisher" who is themselves rational to fear.
 
 ---
 
 ## Major Works
 
-- *Leviathan* (1651)
+- *[Leviathan](../sources/hobbes-leviathan.md)* (1651)
 - *De Cive* (1642)
 
 ---
@@ -39,6 +43,7 @@ Either way, Hobbes has not shown that rational self-interested agents will compl
 
 - [State of Nature](../concepts/state-of-nature.md)
 - [Social Contract](../concepts/social-contract.md)
+- [Sovereignty](../concepts/sovereignty.md)
 - [Contractarianism](../concepts/contractarianism.md)
 - [Mutual Advantage](../concepts/mutual-advantage.md)
 
@@ -51,4 +56,4 @@ Either way, Hobbes has not shown that rational self-interested agents will compl
 
 ---
 
-*Sources: [SEP: Contractarianism](../sources/social-contract.md)*
+*Sources: [Leviathan](../sources/hobbes-leviathan.md), [SEP: Contractarianism](../sources/social-contract.md)*

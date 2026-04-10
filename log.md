@@ -33,3 +33,29 @@
 - Martha Nussbaum (disability critique)
 - Allen Buchanan (inclusion critique)
 - Jan Narveson — page created, but thin on primary sources
+
+## [2026-04-10] ingest | The Republic
+
+**Source file:** `raw/raw/plato_-_the_republic.pdf`
+**Pages created:**
+- `wiki/sources/plato-republic.md`
+- `wiki/thinkers/plato.md`
+- `wiki/concepts/justice.md`
+- `wiki/concepts/philosopher-king.md`
+- `wiki/concepts/noble-lie.md`
+- `wiki/concepts/tripartite-soul.md`
+- `wiki/debates/thrasymachus-justice.md`
+- `index.md` (updated)
+- `log.md` (updated)
+
+## [2026-04-10] ingest | Leviathan
+
+**Source file:** `raw/raw/Leviathan.pdf`
+**Pages created:**
+- `wiki/sources/hobbes-leviathan.md`
+- `wiki/concepts/sovereignty.md`
+**Pages updated:**
+- `wiki/thinkers/hobbes.md`
+- `index.md`
+- `log.md`
+
