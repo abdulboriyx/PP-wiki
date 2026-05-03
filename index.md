@@ -7,7 +7,7 @@
 | Title | File | Date Ingested |
 |---|---|---|
 | Contractarianism (SEP) | [wiki/sources/social-contract.md](wiki/sources/social-contract.md) | 2026-04-06 |
-| The Republic | [wiki/sources/plato-republic.md](wiki/sources/plato-republic.md) | 2026-04-10 |
+| The Republic | [wiki/sources/plato-republic.md](wiki/sources/plato-republic.md) | 2026-05-04 |
 | Leviathan | [wiki/sources/hobbes-leviathan.md](wiki/sources/hobbes-leviathan.md) | 2026-04-10 |
 
 ---
@@ -26,6 +26,10 @@
 | Philosopher King | [wiki/concepts/philosopher-king.md](wiki/concepts/philosopher-king.md) | Ideal ruler combining political power with true knowledge |
 | Noble Lie | [wiki/concepts/noble-lie.md](wiki/concepts/noble-lie.md) | Foundation myth to maintain social harmony and class structure |
 | Tripartite Soul | [wiki/concepts/tripartite-soul.md](wiki/concepts/tripartite-soul.md) | Soul divided into reason, spirit, and appetite |
+| Kallipolis | [wiki/concepts/kallipolis.md](wiki/concepts/kallipolis.md) | Plato's ideal city used to model justice in the soul |
+| Form of the Good | [wiki/concepts/form-of-good.md](wiki/concepts/form-of-good.md) | Highest object of knowledge grounding philosopher-rule |
+| Allegory of the Cave | [wiki/concepts/allegory-of-the-cave.md](wiki/concepts/allegory-of-the-cave.md) | Image of education as ascent from appearance to truth |
+| Censorship and Poetry | [wiki/concepts/censorship-and-poetry.md](wiki/concepts/censorship-and-poetry.md) | Plato's regulation of art as political and psychic education |
 | Sovereignty | [wiki/concepts/sovereignty.md](wiki/concepts/sovereignty.md) | Supreme and absolute authority within a territory |
 
 ---
@@ -56,3 +60,23 @@
 | Inclusion and Exclusion | [wiki/debates/inclusion-exclusion.md](wiki/debates/inclusion-exclusion.md) | Who counts as a party to the contract; the disabled, animals, the excluded |
 | Subversive Contractarianism | [wiki/debates/subversive-contractarianism.md](wiki/debates/subversive-contractarianism.md) | Pateman and Mills: the contract as instrument of domination |
 | Thrasymachus on Justice | [wiki/debates/thrasymachus-justice.md](wiki/debates/thrasymachus-justice.md) | Justice as the advantage of the stronger vs objective virtue |
+| Philosopher-Rule vs Democracy | [wiki/debates/philosopher-rule-vs-democracy.md](wiki/debates/philosopher-rule-vs-democracy.md) | Knowledge as basis of rule vs political equality and accountability |
+| Poetry and Political Education | [wiki/debates/poetry-and-political-education.md](wiki/debates/poetry-and-political-education.md) | Civic formation through art vs artistic freedom and critique |
+
+---
+
+## Reading Triage
+
+| Source | File | Priority |
+|---|---|---|
+| The Republic | [wiki/reading-triage/plato-republic-triage.md](wiki/reading-triage/plato-republic-triage.md) | A-Level |
+
+---
+
+## Arguments
+
+| Argument | File | Source |
+|---|---|---|
+| Justice as Harmony in The Republic | [wiki/arguments/republic-justice-as-harmony.md](wiki/arguments/republic-justice-as-harmony.md) | Plato, *The Republic* |
+| Philosopher Rule in The Republic | [wiki/arguments/republic-philosopher-rule.md](wiki/arguments/republic-philosopher-rule.md) | Plato, *The Republic* |
+| Democracy Tends Toward Tyranny in The Republic | [wiki/arguments/republic-democracy-to-tyranny.md](wiki/arguments/republic-democracy-to-tyranny.md) | Plato, *The Republic* |

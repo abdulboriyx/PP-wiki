@@ -19,7 +19,17 @@ Plato draws a direct analogy between the tripartite soul and the three classes o
 
 [Justice](../concepts/justice.md) is achieved when all three parts are in harmony, with reason in command.
 
+## Political Significance
+
+The tripartite soul is the bridge between Plato's ethics and politics. Regimes are not only institutional arrangements; they express dominant psychic principles. This is why Books VIII-IX can describe timocratic, oligarchic, democratic, and tyrannical souls alongside regimes.
+
+## Tension
+
+The model explains disorder as misrule within the soul, but it also supports political hierarchy by analogy. Critics can accept the psychological insight while rejecting the move from psychic order to fixed civic classes.
+
 ## Links
 
 - [Thinker: Plato](../thinkers/plato.md)
 - [Source: The Republic](../sources/plato-republic.md)
+- [Concept: Kallipolis](kallipolis.md)
+- [Argument: Democracy to Tyranny](../arguments/republic-democracy-to-tyranny.md)
