@@ -39,7 +39,7 @@ In normative contractarianism, it is rational to include only those who can both
 
 ---
 
-### Position 3: Contractualist Inclusion (Rawls, Scanlon)
+### Position 3: Contractualist Inclusion ([Rawls](../thinkers/rawls.md), [Scanlon](../thinkers/scanlon.md))
 
 **Claim**: Moral standing is grounded in personhood (rational agency), not reciprocal contribution. Any principle that excludes some persons from moral consideration is one those persons could reasonably reject.
 
@@ -51,18 +51,26 @@ In normative contractarianism, it is rational to include only those who can both
 
 ---
 
-### Position 4: Racial and Gender Critique (Williams 1991; Kittay 1999; Buchanan 1993)
+### Position 4: Racial and Gender Critique (Williams 1991; [Kittay](../thinkers/kittay.md) 1999; Buchanan 1993)
 
 **Claim**: Contractarianism has historically defined the category of "rational agent capable of contract" in exclusionary ways.
 
 **Arguments**:
 - Contract requires independent agents who make and carry out promises. Historically, Black people and women were classified as *anti-will*: dependent, irrational, incapable of contract.
 - By defining some as contractors and others as incapable, whole classes are excluded from the realm of justice.
-- Caretakers (disproportionately women) whose interests are intertwined with those of dependents are systematically undervalued even in fair bargaining (Kittay 1999).
+- Caretakers (disproportionately women) whose interests are intertwined with those of dependents are systematically undervalued even in fair bargaining ([Kittay](../thinkers/kittay.md) 1999).
+
+### Position 5: Capabilities Approach ([Nussbaum](../thinkers/nussbaum.md))
+
+**Claim**: Justice should secure basic capabilities rather than depend on reciprocal bargaining power.
+
+**Arguments**:
+- People with disabilities, animals, and globally vulnerable populations can have claims of justice even when they are not equal contractors.
+- The scope of justice should not be limited by one's threat advantage or productive contribution.
 
 ---
 
-### Position 5: Animals
+### Position 6: Animals
 
 **Claim**: Animals fall outside the contract because they cannot engage in rational interaction or reciprocate benefits.
 
@@ -90,6 +98,9 @@ Neither position has fully resolved the exclusion problem.
 - [Jean Hampton](../thinkers/hampton.md) — critique of Hobbes; feminist contractarianism
 - [Carole Pateman](../thinkers/pateman.md) — gender exclusion
 - [Charles W. Mills](../thinkers/mills-charles.md) — racial exclusion
+- [Martha Nussbaum](../thinkers/nussbaum.md) — capabilities approach; disability and animal justice
+- [Eva Feder Kittay](../thinkers/kittay.md) — dependency, care, and disability critique
+- [T. M. Scanlon](../thinkers/scanlon.md) — contractualist inclusion
 
 ---
 

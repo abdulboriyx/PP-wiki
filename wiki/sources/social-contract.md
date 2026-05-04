@@ -31,8 +31,9 @@ This SEP entry provides a comprehensive overview of contractarianism as both a p
 ## How It Updates the Wiki
 
 - **Introduces** the wiki's first entries: contractarianism, contractualism, social contract, state of nature, mutual advantage, Lockean proviso.
-- **Introduces** thinker pages: Hobbes, Locke, Rousseau, Kant, Rawls, Gauthier, Hampton, Pateman, Mills (Charles W.), Narveson, Nussbaum, Kittay.
+- **Introduces/updates** thinker pages: [Hobbes](../thinkers/hobbes.md), [Locke](../thinkers/locke.md), [Rousseau](../thinkers/rousseau.md), [Kant](../thinkers/kant.md), [Rawls](../thinkers/rawls.md), [Gauthier](../thinkers/gauthier.md), [Hampton](../thinkers/hampton.md), [Pateman](../thinkers/pateman.md), [Mills](../thinkers/mills-charles.md), [Narveson](../thinkers/narveson.md), [Nussbaum](../thinkers/nussbaum.md), [Kittay](../thinkers/kittay.md), [Scanlon](../thinkers/scanlon.md).
 - **Introduces** debate pages: contractarianism vs. contractualism; inclusion/exclusion; subversive contractarianism.
+- **Adds argument pages** for [Two Strains of Social Contract Thought](../arguments/contractarianism-two-strains.md), [Hampton's Compliance Dilemma](../arguments/contractarianism-hampton-dilemma.md), and [The Exclusion Problem](../arguments/contractarianism-exclusion-problem.md).
 
 ---
 
@@ -49,6 +50,12 @@ This SEP entry provides a comprehensive overview of contractarianism as both a p
 - [Thinker: Thomas Hobbes](../thinkers/hobbes.md)
 - [Thinker: Carole Pateman](../thinkers/pateman.md)
 - [Thinker: Charles W. Mills](../thinkers/mills-charles.md)
+- [Thinker: Martha Nussbaum](../thinkers/nussbaum.md)
+- [Thinker: Eva Feder Kittay](../thinkers/kittay.md)
+- [Thinker: T. M. Scanlon](../thinkers/scanlon.md)
 - [Debate: Contractarianism vs. Contractualism](../debates/contractarianism-vs-contractualism.md)
 - [Debate: Inclusion and Exclusion in the Contract](../debates/inclusion-exclusion.md)
 - [Debate: Subversive Contractarianism](../debates/subversive-contractarianism.md)
+- [Argument: Two Strains of Social Contract Thought](../arguments/contractarianism-two-strains.md)
+- [Argument: Hampton's Compliance Dilemma](../arguments/contractarianism-hampton-dilemma.md)
+- [Argument: The Exclusion Problem](../arguments/contractarianism-exclusion-problem.md)

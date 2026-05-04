@@ -1054,3 +1054,29 @@ Do not paste the full content of every file into the chat unless the user asks.
 - **Debate pages updated/added:** [Thrasymachus on Justice](wiki/debates/thrasymachus-justice.md), [Philosopher-Rule vs Democracy](wiki/debates/philosopher-rule-vs-democracy.md), [Poetry and Political Education](wiki/debates/poetry-and-political-education.md)
 - **Argument cards added:** [Justice as Harmony](wiki/arguments/republic-justice-as-harmony.md), [Philosopher Rule](wiki/arguments/republic-philosopher-rule.md), [Democracy to Tyranny](wiki/arguments/republic-democracy-to-tyranny.md)
 - **Tensions flagged:** truth vs civic myth; philosopher-rule vs democratic accountability; Platonic hierarchy vs egalitarian justice; anti-poetry argument vs Plato's own mythic pedagogy.
+
+## [2026-05-04] ingest | The Republic argument rebuild
+
+- **Instruction change followed:** Updated `AGENTS.md` makes argument pages the central unit of the wiki.
+- **Argument pages rebuilt:** [Justice as Harmony](wiki/arguments/republic-justice-as-harmony.md), [Philosopher Rule](wiki/arguments/republic-philosopher-rule.md), [Democracy to Tyranny](wiki/arguments/republic-democracy-to-tyranny.md)
+- **Argument pages added:** [Ring of Gyges Challenge](wiki/arguments/republic-ring-of-gyges.md), [Education Turns the Soul Toward the Good](wiki/arguments/republic-cave-education.md), [Noble Lie Stabilizes the City](wiki/arguments/republic-noble-lie.md), [Imitative Poetry Corrupts the Soul](wiki/arguments/republic-poetry-corrupts-soul.md)
+- **Thinker page added:** [Aristotle](wiki/thinkers/aristotle.md), as a direct opposing thinker for Plato's argument against imitative poetry.
+- **Each argument now includes:** short original text fragment, explanation, support, assumptions, limits, opposing views, debate/concept/thinker links, reading priority, and confidence.
+- **Raw source preserved:** `raw/raw/the_republic.pdf`
+
+## [2026-05-04] ingest | Leviathan argument extraction
+
+- **Raw source inspected:** `raw/raw/Leviathan.pdf`
+- **Source page updated:** [wiki/sources/hobbes-leviathan.md](wiki/sources/hobbes-leviathan.md)
+- **Argument pages added:** [State of Nature as War](wiki/arguments/leviathan-state-of-nature-war.md), [Covenants Need Coercive Enforcement](wiki/arguments/leviathan-covenants-without-sword.md), [Indivisible Sovereignty](wiki/arguments/leviathan-sovereignty-indivisible.md)
+- **Tensions flagged in argument pages:** peace vs liberty; consent vs absolutism; unified sovereignty vs constitutional division.
+- **Raw source preserved:** `raw/raw/Leviathan.pdf`
+
+## [2026-05-04] ingest | Contractarianism (SEP) argument extraction
+
+- **Raw source inspected:** `raw/raw/Social Contract.md`
+- **Source page updated:** [wiki/sources/social-contract.md](wiki/sources/social-contract.md)
+- **Argument pages added:** [Two Strains of Social Contract Thought](wiki/arguments/contractarianism-two-strains.md), [Hampton's Compliance Dilemma](wiki/arguments/contractarianism-hampton-dilemma.md), [The Exclusion Problem](wiki/arguments/contractarianism-exclusion-problem.md)
+- **Thinker pages added:** [Nussbaum](wiki/thinkers/nussbaum.md), [Kittay](wiki/thinkers/kittay.md), [Scanlon](wiki/thinkers/scanlon.md)
+- **Tensions flagged in argument pages:** contractarianism vs contractualism; self-interest vs compliance; mutual advantage vs exclusion of vulnerable non-reciprocators.
+- **Raw source preserved:** `raw/raw/Social Contract.md`

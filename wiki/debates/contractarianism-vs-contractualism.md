@@ -24,7 +24,7 @@ Both contractarianism and contractualism use the idea of agreement or contract t
 - **Motivation**: Commitment to publicly justify the standards to which each will be held; respect for rational agency.
 - **Parties**: Persons as rational agents with equal moral standing.
 - **Why be moral?**: Because morality is what rationality requires when you take seriously the equal standing of all persons.
-- **Paradigm thinkers**: Kant, Rawls, Scanlon.
+- **Paradigm thinkers**: [Kant](../thinkers/kant.md), [Rawls](../thinkers/rawls.md), [Scanlon](../thinkers/scanlon.md).
 
 ---
 
@@ -71,6 +71,7 @@ Both positions face a bootstrapping problem:
 - [David Gauthier](../thinkers/gauthier.md) — contractarian
 - [John Rawls](../thinkers/rawls.md) — contractualist
 - [Jan Narveson](../thinkers/narveson.md) — libertarian contractarian
+- [T. M. Scanlon](../thinkers/scanlon.md) — contractualist
 
 ---
 

@@ -25,7 +25,7 @@ A moral principle is valid if and only if no one could reasonably reject it. "Re
 The *original position* behind a *veil of ignorance* (not knowing one's social position, natural talents, or conception of the good) generates principles of justice that rational agents would choose. This device ensures fairness and impartiality without appealing to prior moral norms extrinsic to the procedure. Rawls is the paradigm contemporary contractualist.
 
 ### Scanlon
-*What We Owe to Each Other* (1998): moral wrongness = acting on principles that others could reasonably reject. The relevant standards are not self-interest but what each person, as a person seeking agreement on terms of mutual recognition, could accept.
+*What We Owe to Each Other* (1998): moral wrongness = acting on principles that others could reasonably reject. The relevant standards are not self-interest but what each person, as a person seeking agreement on terms of mutual recognition, could accept. See [T. M. Scanlon](../thinkers/scanlon.md).
 
 ---
 
@@ -36,7 +36,7 @@ The *original position* behind a *veil of ignorance* (not knowing one's social p
 | Motivation of parties | Self-interest (non-tuistic) | Commitment to justifiability |
 | Standard for agreement | Rational advantage | Reasonable non-rejectability |
 | Key tradition | Hobbesian | Kantian |
-| Paradigm thinkers | Gauthier, Narveson, Buchanan | Rawls, Scanlon |
+| Paradigm thinkers | Gauthier, Narveson, Buchanan | Rawls, [Scanlon](../thinkers/scanlon.md) |
 | Grounds for inclusion | Reciprocity / capacity to contribute | Moral equality / personhood |
 
 ---
@@ -51,7 +51,7 @@ Because contractualism grounds moral standing in personhood rather than reciproc
 
 - [John Rawls](../thinkers/rawls.md)
 - [Immanuel Kant](../thinkers/kant.md)
-- Thomas Scanlon (page not yet created)
+- [Thomas Scanlon](../thinkers/scanlon.md)
 
 ---
 

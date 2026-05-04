@@ -49,6 +49,10 @@
 | Charles W. Mills | [wiki/thinkers/mills-charles.md](wiki/thinkers/mills-charles.md) | Subversive contractarianism; Racial Contract |
 | Jan Narveson | [wiki/thinkers/narveson.md](wiki/thinkers/narveson.md) | Libertarian contractarianism |
 | Plato | [wiki/thinkers/plato.md](wiki/thinkers/plato.md) | Classical Greek philosopher; theory of justice and ideal state |
+| Aristotle | [wiki/thinkers/aristotle.md](wiki/thinkers/aristotle.md) | Classical Greek philosopher; critic of Plato on poetry, politics, and practical judgment |
+| Martha Nussbaum | [wiki/thinkers/nussbaum.md](wiki/thinkers/nussbaum.md) | Capabilities approach; critique of contractarian exclusion |
+| Eva Feder Kittay | [wiki/thinkers/kittay.md](wiki/thinkers/kittay.md) | Care ethics and disability justice; critique of independent contractor assumptions |
+| T. M. Scanlon | [wiki/thinkers/scanlon.md](wiki/thinkers/scanlon.md) | Contractualism; reasonable rejection |
 
 ---
 
@@ -77,6 +81,16 @@
 
 | Argument | File | Source |
 |---|---|---|
+| Ring of Gyges Challenge | [wiki/arguments/republic-ring-of-gyges.md](wiki/arguments/republic-ring-of-gyges.md) | Plato, *The Republic* |
 | Justice as Harmony in The Republic | [wiki/arguments/republic-justice-as-harmony.md](wiki/arguments/republic-justice-as-harmony.md) | Plato, *The Republic* |
 | Philosopher Rule in The Republic | [wiki/arguments/republic-philosopher-rule.md](wiki/arguments/republic-philosopher-rule.md) | Plato, *The Republic* |
+| Education Turns the Soul Toward the Good | [wiki/arguments/republic-cave-education.md](wiki/arguments/republic-cave-education.md) | Plato, *The Republic* |
+| Noble Lie Stabilizes the City | [wiki/arguments/republic-noble-lie.md](wiki/arguments/republic-noble-lie.md) | Plato, *The Republic* |
 | Democracy Tends Toward Tyranny in The Republic | [wiki/arguments/republic-democracy-to-tyranny.md](wiki/arguments/republic-democracy-to-tyranny.md) | Plato, *The Republic* |
+| Imitative Poetry Corrupts the Soul | [wiki/arguments/republic-poetry-corrupts-soul.md](wiki/arguments/republic-poetry-corrupts-soul.md) | Plato, *The Republic* |
+| The State of Nature Is a Condition of War | [wiki/arguments/leviathan-state-of-nature-war.md](wiki/arguments/leviathan-state-of-nature-war.md) | Hobbes, *Leviathan* |
+| Covenants Need Coercive Enforcement | [wiki/arguments/leviathan-covenants-without-sword.md](wiki/arguments/leviathan-covenants-without-sword.md) | Hobbes, *Leviathan* |
+| Sovereignty Must Be Indivisible | [wiki/arguments/leviathan-sovereignty-indivisible.md](wiki/arguments/leviathan-sovereignty-indivisible.md) | Hobbes, *Leviathan* |
+| Contractarianism and Contractualism Are Distinct Strains | [wiki/arguments/contractarianism-two-strains.md](wiki/arguments/contractarianism-two-strains.md) | Contractarianism (SEP) |
+| Hampton's Compliance Dilemma | [wiki/arguments/contractarianism-hampton-dilemma.md](wiki/arguments/contractarianism-hampton-dilemma.md) | Contractarianism (SEP) |
+| The Exclusion Problem for Contractarianism | [wiki/arguments/contractarianism-exclusion-problem.md](wiki/arguments/contractarianism-exclusion-problem.md) | Contractarianism (SEP) |

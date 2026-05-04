@@ -84,7 +84,7 @@ The work also develops Plato's defense of [Philosopher Kings](../concepts/philos
 - **Updates** debate page: [Thrasymachus on Justice](../debates/thrasymachus-justice.md).
 - **Adds** debate pages: [Philosopher-Rule vs Democracy](../debates/philosopher-rule-vs-democracy.md), [Poetry and Political Education](../debates/poetry-and-political-education.md).
 - **Adds** reading triage: [Reading Triage - The Republic](../reading-triage/plato-republic-triage.md).
-- **Adds** argument cards: [Justice as Harmony](../arguments/republic-justice-as-harmony.md), [Philosopher Rule](../arguments/republic-philosopher-rule.md), [Democracy to Tyranny](../arguments/republic-democracy-to-tyranny.md).
+- **Adds/updates** argument pages: [Ring of Gyges Challenge](../arguments/republic-ring-of-gyges.md), [Justice as Harmony](../arguments/republic-justice-as-harmony.md), [Philosopher Rule](../arguments/republic-philosopher-rule.md), [Education Turns the Soul Toward the Good](../arguments/republic-cave-education.md), [Noble Lie Stabilizes the City](../arguments/republic-noble-lie.md), [Democracy to Tyranny](../arguments/republic-democracy-to-tyranny.md), [Imitative Poetry Corrupts the Soul](../arguments/republic-poetry-corrupts-soul.md).
 
 ---
 
@@ -112,3 +112,10 @@ The work also develops Plato's defense of [Philosopher Kings](../concepts/philos
 - [Debate: Thrasymachus on Justice](../debates/thrasymachus-justice.md)
 - [Debate: Philosopher-Rule vs Democracy](../debates/philosopher-rule-vs-democracy.md)
 - [Debate: Poetry and Political Education](../debates/poetry-and-political-education.md)
+- [Argument: Ring of Gyges Challenge](../arguments/republic-ring-of-gyges.md)
+- [Argument: Justice as Harmony](../arguments/republic-justice-as-harmony.md)
+- [Argument: Philosopher Rule](../arguments/republic-philosopher-rule.md)
+- [Argument: Education Turns the Soul Toward the Good](../arguments/republic-cave-education.md)
+- [Argument: Noble Lie Stabilizes the City](../arguments/republic-noble-lie.md)
+- [Argument: Democracy to Tyranny](../arguments/republic-democracy-to-tyranny.md)
+- [Argument: Imitative Poetry Corrupts the Soul](../arguments/republic-poetry-corrupts-soul.md)

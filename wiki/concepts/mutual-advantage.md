@@ -37,7 +37,7 @@ The mutual-advantage framework has a structural tension with egalitarian intuiti
 
 - **Claim**: It is rational to include only those who can both benefit from and reciprocate to social cooperation.
 - **Implication**: Those who cannot reciprocate (severely disabled persons, animals, the global poor relative to wealthy contractors) may fall outside the scope of justice.
-- **Objection** (Kittay 1999; Nussbaum 2006): This produces morally unacceptable exclusions.
+- **Objection** ([Kittay](../thinkers/kittay.md) 1999; [Nussbaum](../thinkers/nussbaum.md) 2006): This produces morally unacceptable exclusions.
 
 See [Debate: Inclusion and Exclusion](../debates/inclusion-exclusion.md).
 

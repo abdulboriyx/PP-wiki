@@ -37,6 +37,7 @@
 - **Elaborates** on the [State of Nature](../concepts/state-of-nature.md) and [Social Contract](../concepts/social-contract.md).
 - **Introduces** the concept of [Sovereignty](../concepts/sovereignty.md).
 - **Fills in** the thinker page for [Thomas Hobbes](../thinkers/hobbes.md) with specific details from his masterwork.
+- **Adds argument pages** for [State of Nature as War](../arguments/leviathan-state-of-nature-war.md), [Covenants Need Coercive Enforcement](../arguments/leviathan-covenants-without-sword.md), and [Indivisible Sovereignty](../arguments/leviathan-sovereignty-indivisible.md).
 
 ---
 
@@ -48,3 +49,6 @@
 - [Concept: Sovereignty](../concepts/sovereignty.md)
 - [Concept: Contractarianism](../concepts/contractarianism.md)
 - [Debate: Thrasymachus on Justice](../debates/thrasymachus-justice.md) (for comparison on "might makes right" vs. sovereign power)
+- [Argument: State of Nature as War](../arguments/leviathan-state-of-nature-war.md)
+- [Argument: Covenants Need Coercive Enforcement](../arguments/leviathan-covenants-without-sword.md)
+- [Argument: Indivisible Sovereignty](../arguments/leviathan-sovereignty-indivisible.md)
